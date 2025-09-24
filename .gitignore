@@ -1,0 +1,7 @@
+.env
+.idea
+chroma
+__pycache__
+handlers/__pycache__
+__pycache__
+.DS_Store

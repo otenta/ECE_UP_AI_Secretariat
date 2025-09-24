@@ -1,0 +1,14 @@
+langchain-core
+langchain_ollama
+langchain_chroma
+Flask
+flask-sock
+twilio
+python-dotenv
+pyngrok
+ngrok
+chromadb
+torch
+langchain
+pdfplumber
+googletrans

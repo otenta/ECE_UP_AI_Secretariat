@@ -1,0 +1,27 @@
+[
+  {
+    "event": "September 2025 exam period",
+    "start_date": "2025-08-28",
+    "end_date": "2025-09-25"
+  },
+  {
+    "event": "Winter semester classes period",
+    "start_date": "2025-09-30",
+    "end_date": "2026-01-10"
+  },
+  {
+    "event": "Winter semester exams",
+    "start_date": "2026-01-20",
+    "end_date": "2026-02-07"
+  },
+  {
+    "event": "Spring semester classes period",
+    "start_date": "2026-02-17",
+    "end_date": "2026-05-30"
+  },
+  {
+    "event": "Spring semester exams",
+    "start_date": "2026-06-10",
+    "end_date": "2026-06-27"
+  }
+]

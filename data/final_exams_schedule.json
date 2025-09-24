@@ -1,0 +1,1058 @@
+{
+  "Linear Algebra": {
+    "Semester": "1",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Linear Algebra"
+  },
+  "Single Variable Functions Calculus": {
+    "Semester": "1",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Single Variable Functions Calculus"
+  },
+  "Applied Physics": {
+    "Semester": "1",
+    "Date": "Monday, 1 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Applied Physics"
+  },
+  "English": {
+    "Semester": "1",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "English"
+  },
+  "German": {
+    "Semester": "1",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "German"
+  },
+  "French": {
+    "Semester": "1",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "French"
+  },
+  "Digital Logic": {
+    "Semester": "1",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Digital Logic"
+  },
+  "Introduction to Computers": {
+    "Semester": "1",
+    "Date": "Friday, 5 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Introduction to Computers"
+  },
+  "Modern Physics": {
+    "Semester": "1",
+    "Date": "Monday, 8 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-7:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Modern Physics"
+  },
+  "Digital Circuits and Systems Lab": {
+    "Semester": "3",
+    "Date": "Wednesday, 27 August 2025",
+    "Day": "WEDNESDAY",
+    "Time": "1:00pm-3:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Digital Circuits and Systems Lab"
+  },
+  "Electrical Circuits I & Electrical Circuits II Lab": {
+    "Semester": "3",
+    "Date": "Wednesday, 27 August 2025",
+    "Day": "WEDNESDAY",
+    "Time": "5:00pm-7:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Electrical Circuits I & Electrical Circuits II Lab"
+  },
+  "Object Oriented Technology": {
+    "Semester": "3",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-3:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Object Oriented Technology"
+  },
+  "Digital Logic Circuits & Systems": {
+    "Semester": "3",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Digital Logic Circuits & Systems"
+  },
+  "Probability & Statistics": {
+    "Semester": "3",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Probability & Statistics"
+  },
+  "Solid State of Matter": {
+    "Semester": "3",
+    "Date": "Thursday, 4 September 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Solid State of Matter"
+  },
+  "Electrical Circuits II": {
+    "Semester": "3",
+    "Date": "Monday, 8 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Electrical Circuits II"
+  },
+  "Partial Diff. Equations & Transforms": {
+    "Semester": "3",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Partial Diff. Equations & Transforms"
+  },
+  "Communication Systems Lab": {
+    "Semester": "5",
+    "Date": "Wednesday, 27 August 2025",
+    "Day": "WEDNESDAY",
+    "Time": "11:00am-1:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Communication Systems Lab"
+  },
+  "Electrical Power Systems": {
+    "Semester": "5",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Electrical Power Systems"
+  },
+  "Integrated Electronics": {
+    "Semester": "5",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Integrated Electronics"
+  },
+  "Numerical Analysis": {
+    "Semester": "5",
+    "Date": "Monday, 1 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Numerical Analysis"
+  },
+  "Communication Systems": {
+    "Semester": "5",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Communication Systems"
+  },
+  "Electromagnetic Fields II": {
+    "Semester": "5",
+    "Date": "Friday, 5 September 2025",
+    "Day": "FRIDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Electromagnetic Fields II"
+  },
+  "Signal Processing": {
+    "Semester": "5",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Signal Processing"
+  },
+  "High Voltages": {
+    "Semester": "7",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "High Voltages"
+  },
+  "Integrated Circuits Design I": {
+    "Semester": "7",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Integrated Circuits Design I"
+  },
+  "Machine Learning": {
+    "Semester": "7",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Machine Learning"
+  },
+  "Introduction to Quantum Electronics": {
+    "Semester": "7",
+    "Date": "Friday, 29 August 2025",
+    "Day": "FRIDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Introduction to Quantum Electronics"
+  },
+  "Applied Optimization": {
+    "Semester": "7",
+    "Date": "Friday, 29 August 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Applied Optimization"
+  },
+  "Thermal Plants": {
+    "Semester": "7",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Thermal Plants"
+  },
+  "Data Bases": {
+    "Semester": "7",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Data Bases"
+  },
+  "Computer Architecture": {
+    "Semester": "7",
+    "Date": "Monday, 1 September 2025",
+    "Day": "MONDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Computer Architecture"
+  },
+  "Wireless Propagation": {
+    "Semester": "7",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Wireless Propagation"
+  },
+  "Computer Graphics & Virtual Reality": {
+    "Semester": "7",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Computer Graphics & Virtual Reality"
+  },
+  "State-Space Linear Systems Analysis": {
+    "Semester": "7",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "State-Space Linear Systems Analysis"
+  },
+  "Electrical Power Systems Analysis": {
+    "Semester": "7",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Electrical Power Systems Analysis"
+  },
+  "Electroacoustics": {
+    "Semester": "7",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Electroacoustics"
+  },
+  "Optoelectronic and Photonic Technology": {
+    "Semester": "7",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Optoelectronic and Photonic Technology"
+  },
+  "Introduction to Robotics": {
+    "Semester": "7",
+    "Date": "Thursday, 4 September 2025",
+    "Day": "THURSDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Introduction to Robotics"
+  },
+  "Information Theory": {
+    "Semester": "7",
+    "Date": "Thursday, 4 September 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Information Theory"
+  },
+  "Electric Motor Drive Systems I": {
+    "Semester": "7",
+    "Date": "Thursday, 4 September 2025",
+    "Day": "THURSDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Electric Motor Drive Systems I"
+  },
+  "Power Electronics Ι": {
+    "Semester": "7",
+    "Date": "Friday, 5 September 2025",
+    "Day": "FRIDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Power Electronics Ι"
+  },
+  "Telecommunication Electronics & High Frequencies": {
+    "Semester": "7",
+    "Date": "Friday, 5 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Telecommunication Electronics & High Frequencies"
+  },
+  "Adv. Microcomputers Systems": {
+    "Semester": "7",
+    "Date": "Saturday, 6 September 2025",
+    "Day": "SATURDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Adv. Microcomputers Systems"
+  },
+  "Electrical Installations": {
+    "Semester": "7",
+    "Date": "Saturday, 6 September 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Electrical Installations"
+  },
+  "Digital Communications I": {
+    "Semester": "7",
+    "Date": "Monday, 8 September 2025",
+    "Day": "MONDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Digital Communications I"
+  },
+  "Photoelectronics": {
+    "Semester": "7",
+    "Date": "Monday, 8 September 2025",
+    "Day": "MONDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Photoelectronics"
+  },
+  "Operating Systems": {
+    "Semester": "7",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Operating Systems"
+  },
+  "Artificial Intelligence I": {
+    "Semester": "7",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Artificial Intelligence I"
+  },
+  "Introduction to Cyber-Physical Sys.": {
+    "Semester": "7",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Introduction to Cyber-Physical Sys."
+  },
+  "Digital Signal Processing": {
+    "Semester": "7",
+    "Date": "Wednesday, 10 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ5",
+    "Course": "Digital Signal Processing"
+  },
+  "Biomechanics I": {
+    "Semester": "7",
+    "Date": "According to the schedule of the Mechanical Engineers",
+    "Day": "According to the schedule of the Mechanical Engineers",
+    "Time": "According to the schedule of the Mechanical Engineers",
+    "Room": "According to the schedule of the Mechanical Engineers",
+    "Course": "Biomechanics I"
+  },
+  "Information Retrieval": {
+    "Semester": "7",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Information Retrieval"
+  },
+  "Multimedia Communications": {
+    "Semester": "9",
+    "Date": "Thursday, 28 August 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Multimedia Communications"
+  },
+  "Interactive Technologies": {
+    "Semester": "9",
+    "Date": "Friday, 29 August 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Interactive Technologies"
+  },
+  "Non Linear Systems & Control": {
+    "Semester": "9",
+    "Date": "Saturday, 30 August 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Non Linear Systems & Control"
+  },
+  "Insulation Tech. & Nanostructured Dielectrics": {
+    "Semester": "9",
+    "Date": "Monday, 1 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Insulation Tech. & Nanostructured Dielectrics"
+  },
+  "High Speed Electronics": {
+    "Semester": "9",
+    "Date": "Monday, 1 September 2025",
+    "Day": "MONDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "High Speed Electronics"
+  },
+  "Communications Lab. II": {
+    "Semester": "9",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Communications Lab. II"
+  },
+  "Computer & Network Security": {
+    "Semester": "9",
+    "Date": "Tuesday, 2 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Computer & Network Security"
+  },
+  "Internet of Things": {
+    "Semester": "9",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Internet of Things"
+  },
+  "Optimal Control": {
+    "Semester": "9",
+    "Date": "Wednesday, 3 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Optimal Control"
+  },
+  "Broadband Networks – Optical Networks": {
+    "Semester": "9",
+    "Date": "Thursday, 4 September 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Broadband Networks – Optical Networks"
+  },
+  "Programmable Networks & Management": {
+    "Semester": "9",
+    "Date": "Friday, 5 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Programmable Networks & Management"
+  },
+  "Adaptive Control & Reinforcement Learning": {
+    "Semester": "9",
+    "Date": "Saturday, 6 September 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Adaptive Control & Reinforcement Learning"
+  },
+  "Electrical Economy": {
+    "Semester": "9",
+    "Date": "Saturday, 6 September 2025",
+    "Day": "SATURDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Electrical Economy"
+  },
+  "Integrated Systems Design": {
+    "Semester": "9",
+    "Date": "Monday, 8 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Integrated Systems Design"
+  },
+  "Distributed Real-time Embedded Systems": {
+    "Semester": "9",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Distributed Real-time Embedded Systems"
+  },
+  "Power Electr. with Modern Semiconductor Tech.": {
+    "Semester": "9",
+    "Date": "Tuesday, 9 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Power Electr. with Modern Semiconductor Tech."
+  },
+  "Anal. & Design of Elec. Machines-Finite Elem.": {
+    "Semester": "9",
+    "Date": "Wednesday, 10 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Anal. & Design of Elec. Machines-Finite Elem."
+  },
+  "Quantum Computers": {
+    "Semester": "9",
+    "Date": "Wednesday, 10 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Quantum Computers"
+  },
+  "Adv. Control of Elec. Machines": {
+    "Semester": "9",
+    "Date": "Wednesday, 10 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ7",
+    "Course": "Adv. Control of Elec. Machines"
+  },
+  "Robotic Systems II": {
+    "Semester": "9",
+    "Date": "In communication with the examiner",
+    "Day": "In communication with the examiner",
+    "Time": "In communication with the examiner",
+    "Room": "In communication with the examiner",
+    "Course": "Robotic Systems II"
+  },
+  "Modern Network Security Applications": {
+    "Semester": "9",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Modern Network Security Applications"
+  },
+  "Software & Programming in High Performance Sys.": {
+    "Semester": "9",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Software & Programming in High Performance Sys."
+  },
+  "Parallel Processing": {
+    "Semester": "9",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Parallel Processing"
+  },
+  "Procedural Programming Lab": {
+    "Semester": "2",
+    "Date": "Wednesday, 27 August 2025",
+    "Day": "WEDNESDAY",
+    "Time": "9:00am-11:00am",
+    "Room": "ΚΥΠΕΣ Ι & ΙΙ",
+    "Course": "Procedural Programming Lab"
+  },
+  "Differential Equations & Complex Analysis": {
+    "Semester": "2",
+    "Date": "Thursday, 11 September 2025",
+    "Day": "ΠΕΜΤΗ",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Differential Equations & Complex Analysis"
+  },
+  "Multivar. Functions Calculus & Vector Anal.": {
+    "Semester": "2",
+    "Date": "Saturday, 13 September 2025",
+    "Day": "SATURDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Multivar. Functions Calculus & Vector Anal."
+  },
+  "Procedural Programming": {
+    "Semester": "2",
+    "Date": "Monday, 15 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-3:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Procedural Programming"
+  },
+  "Applied Physics Lab.": {
+    "Semester": "2",
+    "Date": "Wednesday, 17 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "9:00am-1:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Applied Physics Lab."
+  },
+  "Introduction to ECE science": {
+    "Semester": "2",
+    "Date": "Friday, 19 September 2025",
+    "Day": "FRIDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ4-ΗΛ5",
+    "Course": "Introduction to ECE science"
+  },
+  "Engineering Mechanics": {
+    "Semester": "2",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Engineering Mechanics"
+  },
+  "Electrical Circuits I": {
+    "Semester": "2",
+    "Date": "Wednesday, 24 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Electrical Circuits I"
+  },
+  "Engineering Drawing": {
+    "Semester": "6",
+    "Date": "Thursday, 11 September 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Engineering Drawing"
+  },
+  "Communications Networks": {
+    "Semester": "4",
+    "Date": "Saturday, 13 September 2025",
+    "Day": "SATURDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Communications Networks"
+  },
+  "Microelectronic Circuits & Devices": {
+    "Semester": "4",
+    "Date": "Tuesday, 16 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Microelectronic Circuits & Devices"
+  },
+  "Power Circuits Analysis": {
+    "Semester": "4",
+    "Date": "Thursday, 18 September 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Power Circuits Analysis"
+  },
+  "Electromagnetic Fields I": {
+    "Semester": "4",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Electromagnetic Fields I"
+  },
+  "Signals & Systems": {
+    "Semester": "4",
+    "Date": "Wednesday, 24 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Signals & Systems"
+  },
+  "Automatic Control Systems Lab": {
+    "Semester": "6",
+    "Date": "Wednesday, 27 August 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΚΥΠΕΣ Ι & ΙΙΙ",
+    "Course": "Automatic Control Systems Lab"
+  },
+  "Automatic Control Systems": {
+    "Semester": "6",
+    "Date": "Friday, 12 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Automatic Control Systems"
+  },
+  "Electrical Machines": {
+    "Semester": "6",
+    "Date": "Monday, 15 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-9:00pm",
+    "Room": "ΚΥΠΕΣ",
+    "Course": "Electrical Machines"
+  },
+  "Algorithms & Data Structures": {
+    "Semester": "6",
+    "Date": "Wednesday, 17 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Algorithms & Data Structures"
+  },
+  "Elec. Measuring Dev. & Measuring Techn": {
+    "Semester": "6",
+    "Date": "Friday, 19 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Elec. Measuring Dev. & Measuring Techn"
+  },
+  "Microcomputers / Embedded systems": {
+    "Semester": "6",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Microcomputers / Embedded systems"
+  },
+  "Computer Organization": {
+    "Semester": "6",
+    "Date": "Wednesday, 24 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "Α.Φ.Ε.",
+    "Course": "Computer Organization"
+  },
+  "Network Architecture": {
+    "Semester": "8",
+    "Date": "Thursday, 11 September 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Network Architecture"
+  },
+  "Dynamics & Control of E-L Systems": {
+    "Semester": "8",
+    "Date": "Thursday, 11 September 2025",
+    "Day": "THURSDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Dynamics & Control of E-L Systems"
+  },
+  "Teletraffic Theory & Queuing Systems": {
+    "Semester": "8",
+    "Date": "Friday, 12 September 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Teletraffic Theory & Queuing Systems"
+  },
+  "Robust Control": {
+    "Semester": "8",
+    "Date": "Friday, 12 September 2025",
+    "Day": "FRIDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Robust Control"
+  },
+  "Electric Motor Drive Systems II": {
+    "Semester": "8",
+    "Date": "Saturday, 13 September 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Electric Motor Drive Systems II"
+  },
+  "3D Computer Vision and Geometry": {
+    "Semester": "8",
+    "Date": "Saturday, 13 September 2025",
+    "Day": "SATURDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "3D Computer Vision and Geometry"
+  },
+  "Electrical Power Systems Protection": {
+    "Semester": "8",
+    "Date": "Monday, 15 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Electrical Power Systems Protection"
+  },
+  "Nanoelectronics": {
+    "Semester": "8",
+    "Date": "Monday, 15 September 2025",
+    "Day": "MONDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Nanoelectronics"
+  },
+  "COMPUTATIONAL LINGUISTICS": {
+    "Semester": "8",
+    "Date": "Monday, 15 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "COMPUTATIONAL LINGUISTICS"
+  },
+  "Internet Programming": {
+    "Semester": "8",
+    "Date": "Tuesday, 16 September 2025",
+    "Day": "TUESDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ3",
+    "Course": "Internet Programming"
+  },
+  "Renewable Energy Sources": {
+    "Semester": "8",
+    "Date": "Tuesday, 16 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Renewable Energy Sources"
+  },
+  "Overvol. Protection – Lightning Surge Arresters": {
+    "Semester": "8",
+    "Date": "Wednesday, 17 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Overvol. Protection – Lightning Surge Arresters"
+  },
+  "Antenna Theory": {
+    "Semester": "8",
+    "Date": "Wednesday, 17 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Antenna Theory"
+  },
+  "Digital Communications II": {
+    "Semester": "8",
+    "Date": "Thursday, 18 September 2025",
+    "Day": "THURSDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Digital Communications II"
+  },
+  "Communications Lab. I": {
+    "Semester": "8",
+    "Date": "Thursday, 18 September 2025",
+    "Day": "THURSDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Communications Lab. I"
+  },
+  "Industrial Automation": {
+    "Semester": "8",
+    "Date": "Thursday, 18 September 2025",
+    "Day": "THURSDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Industrial Automation"
+  },
+  "High Voltages (Tests & Measurements)": {
+    "Semester": "8",
+    "Date": "Friday, 19 September 2025",
+    "Day": "FRIDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "High Voltages (Tests & Measurements)"
+  },
+  "Optical Communications": {
+    "Semester": "8",
+    "Date": "Friday, 19 September 2025",
+    "Day": "FRIDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Optical Communications"
+  },
+  "Digital Audio Technology": {
+    "Semester": "8",
+    "Date": "Saturday, 20 September 2025",
+    "Day": "SATURDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Digital Audio Technology"
+  },
+  "Integrated Circuits Design II": {
+    "Semester": "8",
+    "Date": "Saturday, 20 September 2025",
+    "Day": "SATURDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Integrated Circuits Design II"
+  },
+  "Digital Control": {
+    "Semester": "8",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "9:00am-12:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Digital Control"
+  },
+  "Linear & Combinatorial Optimization": {
+    "Semester": "8",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Linear & Combinatorial Optimization"
+  },
+  "Wireless & Mobile Commun. Networks": {
+    "Semester": "8",
+    "Date": "Monday, 22 September 2025",
+    "Day": "MONDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Wireless & Mobile Commun. Networks"
+  },
+  "Power Sys. Control & Stability": {
+    "Semester": "8",
+    "Date": "Tuesday, 23 September 2025",
+    "Day": "TUESDAY",
+    "Time": "12:00pm-3:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Power Sys. Control & Stability"
+  },
+  "Control Tech. in Renewable Energy Sources": {
+    "Semester": "8",
+    "Date": "Tuesday, 23 September 2025",
+    "Day": "TUESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Control Tech. in Renewable Energy Sources"
+  },
+  "Adv. Anal./Dig. Integrated Circuits & Comp.": {
+    "Semester": "8",
+    "Date": "Wednesday, 24 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "3:00pm-6:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Adv. Anal./Dig. Integrated Circuits & Comp."
+  },
+  "Power Electronics ΙI": {
+    "Semester": "8",
+    "Date": "Wednesday, 24 September 2025",
+    "Day": "WEDNESDAY",
+    "Time": "6:00pm-9:00pm",
+    "Room": "ΗΛ4",
+    "Course": "Power Electronics ΙI"
+  },
+  "Robotic Systems I": {
+    "Semester": "8",
+    "Date": "In communication with the examiner",
+    "Day": "In communication with the examiner",
+    "Time": "In communication with the examiner",
+    "Room": "In communication with the examiner",
+    "Course": "Robotic Systems I"
+  },
+  "Biomechanics II": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Mechanical Engineers",
+    "Day": "According to the schedule of the Mechanical Engineers",
+    "Time": "According to the schedule of the Mechanical Engineers",
+    "Room": "According to the schedule of the Mechanical Engineers",
+    "Course": "Biomechanics II"
+  },
+  "Satellite Technologies": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Mechanical Engineers",
+    "Day": "According to the schedule of the Mechanical Engineers",
+    "Time": "According to the schedule of the Mechanical Engineers",
+    "Room": "According to the schedule of the Mechanical Engineers",
+    "Course": "Satellite Technologies"
+  },
+  "Software Technology": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Software Technology"
+  },
+  "Intelligent Control": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Intelligent Control"
+  },
+  "Digital Processing & Image Analysis": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Digital Processing & Image Analysis"
+  },
+  "Introduction to Bioinformatics": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Introduction to Bioinformatics"
+  },
+  "Data Mining & Learning Algorithms": {
+    "Semester": "8",
+    "Date": "According to the schedule of the Computer Engineers",
+    "Day": "According to the schedule of the Computer Engineers",
+    "Time": "According to the schedule of the Computer Engineers",
+    "Room": "According to the schedule of the Computer Engineers",
+    "Course": "Data Mining & Learning Algorithms"
+  }
+}

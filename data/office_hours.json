@@ -1,0 +1,306 @@
+{
+  "Alexandridis Antonios": {
+    "display_name": "Alexandridis Antonios",
+    "email": "a.t.alexandridis@ece.upatras.gr",
+    "phone": "+30 261 099 6404",
+    "hours": [
+      {"weekday": "Tuesday",  "start": "1:00pm", "end": "2:00pm"},
+      {"weekday": "Wednesday", "start": "9:30am", "end": "11:00am"},
+      {"weekday": "Thursday", "start": "12:00pmm", "end": "1:00pm"}
+    ]
+  },
+  "Antwnakopoulos Theodoros": {
+    "display_name": "Antwnakopoulos Theodoros",
+    "email": "antonako@upatras.gr",
+    "phone": "+30 261 099 6487",
+    "hours": [
+      {"weekday": "Monday",  "start": "11:00am", "end": "12:30pm"},
+      {"weekday": "Tuesday", "start": "11:30am", "end": "1:00pm"}
+    ]
+  },
+  "Asimonis Stilianos": {
+    "display_name": "Asimonis Stilianos",
+    "email": "s.asimonis@upatras.gr",
+    "phone": "+30 261 096 2433",
+    "hours": [
+      {"weekday": "Wednesday",  "start": "2:00pm", "end": "4:00pm"}
+    ]
+  },
+  "Vovos Panagis": {
+    "display_name": "Vovos Panagis",
+    "email": "panagis@upatras.gr",
+    "phone": "+30 261 099 6499",
+    "hours": [
+      {"weekday": "Thursday",  "start": "12:30pm", "end": "3:00pm"}
+    ]
+  },
+  "Daskalaki Sofia": {
+    "display_name": "Daskalaki Sofia",
+    "email": "sdask@upatras.gr",
+    "phone": "+30 261 099 7810",
+    "hours": [
+      {"weekday": "Tuesday",  "start": "1:00pm", "end": "2:00pm"},
+      {"weekday": "Thursday", "start": "12:00pm", "end": "2:00pm"}
+    ]
+  },
+  "Denazis Spiros": {
+    "display_name": "Denazis Spiros",
+    "email": "sdena@upatras.gr",
+    "phone": "+30 261 099 6478",
+    "hours": []
+  },
+  "Theodoridis Georgios": {
+    "display_name": "Theodoridis Georgios",
+    "email": "theodor@ece.upatras.gr",
+    "phone": "+30 261 099 6445",
+    "hours": [
+      {"weekday": "Tuesday",  "start": "12:00pm", "end": "2:00pm"},
+      {"weekday": "Wednesday", "start": "12:00pm", "end": "2:00pm"},
+      {"weekday": "Thursday", "start": "12:00pm", "end": "2:00pm"}
+    ]
+  },
+  "Kazakos Dimosthenis": {
+    "display_name": "Kazakos Dimosthenis",
+    "email": "kazakos@ece.upatras.gr",
+    "phone": "+30 261 099 6461",
+    "hours": [
+      {"weekday": "Thursday",  "start": "10:00am", "end": "1:00pm"}
+    ]
+  },
+  "Kalantonis Vasilios": {
+    "display_name": "Kalantonis Vasilios",
+    "email": "kalantonis@upatras.gr",
+    "phone": "+30 261 099 6888",
+    "hours": [
+      {"weekday": "Tuesday",  "start": "12:30pm", "end": "1:30pm"},
+      {"weekday": "Tuesday", "start": "11:00am", "end": "1:30pm"}
+    ]
+  },
+  "Kalivas Grigorios": {
+    "display_name": "Kalivas Grigorios",
+    "email": "kalivas@ece.upatras.gr",
+    "phone": "+30 261 099 6424",
+    "hours": [
+      {"weekday": "Monday",  "start": "12:00pm", "end": "1:30pm"},
+      {"weekday": "Wednesday", "start": "5:00pm", "end": "6:30pm"}
+    ]
+  },
+  "Kabitsis Georgios": {
+    "display_name": "Kabitsis Georgios",
+    "email": "gkampitsis@upatras.gr",
+    "phone": "",
+    "hours": [
+      {"weekday": "Wednesday",  "start": "10:00am", "end": "12:30pm"},
+      {"weekday": "Thursday", "start": "10:00am", "end": "11:00am"}
+    ]
+  },
+  "Koulouridis Stavros": {
+    "display_name": "Koulouridis Stavros",
+    "email": "stavros.koulouridis@upatras.gr",
+    "phone": "+30 261 099 6168",
+    "hours": [
+      {"weekday": "Tuesday", "start": "11:00am", "end": "1:00pm"}
+    ]
+  },
+  "Kounavis Panagiotis": {
+    "display_name": "Kounavis Panagiotis",
+    "email": "pkounavis@upatras.gr",
+    "phone": "+302610996281",
+    "hours": [
+      {"weekday": "Tuesday", "start": "11:00am", "end": "1:00pm"},
+      {"weekday": "Wednesday", "start": "11:00am", "end": "1:00pm"}
+    ]
+  },
+  "Koufopavlou Odiseas": {
+    "display_name": "Koufopavlou Odiseas",
+    "email": "odysseas@ece.upatras.gr",
+    "phone": "+30 261 099 6444",
+    "hours": [
+      {"weekday": "Monday",  "start": "09:00am", "end": "12:00pm"},
+      {"weekday": "Tuesday", "start": "09:00am", "end": "12:00pm"},
+      {"weekday": "Wednesday", "start": "09:00am", "end": "12:00pm"},
+      {"weekday": "Thursday", "start": "09:00am", "end": "12:00pm"},
+      {"weekday": "Friday", "start": "09:00am", "end": "12:00pm"}
+    ]
+  },
+  "Kostantopoulos Georgios": {
+    "display_name": "Kostantopoulos Georgios",
+    "email": "g.konstantopoulos@ece.upatras.gr",
+    "phone": "+30 261 099 6402",
+    "hours": []
+  },
+  "Logothetis Michail": {
+    "display_name": "Logothetis Michail",
+    "email": "mlogo@upatras.gr",
+    "phone": "+30 261 099 6433",
+    "hours": [
+      {"weekday": "Monday",  "start": "1:00pm", "end": "3:00pm"},
+      {"weekday": "Tuesday", "start": "2:00pm", "end": "3:00pm"}
+    ]
+  },
+  "Markakis Michail": {
+    "display_name": "Markakis Michail",
+    "email": "markakis@upatras.gr",
+    "phone": "+30 261 096 2782",
+    "hours": [
+      {"weekday": "Thursday",  "start": "3:30pm", "end": "6:00pm"}
+    ]
+  },
+  "Mitronikas Epaminondas": {
+    "display_name": "Mitronikas Epaminondas",
+    "email": "e.mitronikas@ece.upatras.gr",
+    "phone": "+30 261 099 6409",
+    "hours": [
+      {"weekday": "Monday",  "start": "11:00am", "end": "12:00pm"},
+      {"weekday": "Thursday", "start": "11:00am", "end": "1:00pm"}
+    ]
+  },
+  "Moustakas Konstantinos": {
+    "display_name": "Moustakas Konstantinos",
+    "email": "moustakas@ece.upatras.gr",
+    "phone": "+30 261 099 6463",
+    "hours": [
+      {"weekday": "Thursday", "start": "10:00am", "end": "12:00pm"}
+    ]
+  },
+  "Behlioulis Charalampos": {
+    "display_name": "Behlioulis Charalampos",
+    "email": "chmpechl@upatras.gr",
+    "phone": "+30 261 099 6453",
+    "hours": [
+      {"weekday": "Tuesday", "start": "12:00pm", "end": "1:30pm"},
+      {"weekday": "Wednesday", "start": "12:00pm", "end": "1:30pm"},
+      {"weekday": "Thursday", "start": "10:00am", "end": "11:30am"}
+    ]
+  },
+  "Birbas Alexios": {
+    "display_name": "Birbas Alexios",
+    "email": "birbas@ece.upatras.gr",
+    "phone": "+30 261 099 6426",
+    "hours": [
+      {"weekday": "Monday",  "start": "11:00am", "end": "12:00pm"},
+      {"weekday": "Thursday", "start": "11:00am", "end": "1:00pm"}
+    ]
+  },
+  "Birbas Michail": {
+    "display_name": "Birbas Michail",
+    "email": "mbirbas@ece.upatras.gr",
+    "phone": "+30 261 099 6441",
+    "hours": []
+  },
+  "Bouloukakis Georgios": {
+    "display_name": "Bouloukakis Georgios",
+    "email": "gbouloukakis@upatras.gr",
+    "phone": "+30 261 099 6435",
+    "hours": []
+  },
+  "Paliouras Vasilis": {
+    "display_name": "Paliouras Vasilis",
+    "email": "paliuras@ece.upatras.gr",
+    "phone": "+30 261 099 6446",
+    "hours": [
+      {"weekday": "Wednesday", "start": "10:00am", "end": "1:00pm"}
+    ]
+  },
+  "Papadaskalopoulos Dimitrios": {
+    "display_name": "Papadaskalopoulos Dimitrios",
+    "email": "dimpap@upatras.gr",
+    "phone": "+30 261 099 6403",
+    "hours": [
+      {"weekday": "Wednesday", "start": "1:00pm", "end": "3:00pm"}
+    ]
+  },
+  "Pirgioti Eleftheria": {
+    "display_name": "Pirgioti Eleftheria",
+    "email": "E.Pyrgioti@ece.upatras.gr",
+    "phone": "+30 261 099 6448",
+    "hours": [
+      {"weekday": "Monday",  "start": "10:00am", "end": "1:00pm"},
+      {"weekday": "Tuesday",  "start": "10:00am", "end": "1:00pm"},
+      {"weekday": "Wednesday",  "start": "10:00am", "end": "1:00pm"},
+      {"weekday": "Thursday",  "start": "10:00am", "end": "1:00pm"},
+      {"weekday": "Friday",  "start": "10:00am", "end": "1:00pm"}
+    ]
+  },
+  "Svarnas Panagiotis": {
+    "display_name": "Svarnas Panagiotis",
+    "email": "svarnas@ece.upatras.gr",
+    "phone": "+30 261 099 6487",
+    "hours": [
+      {"weekday": "Monday",  "start": "4:00pm", "end": "5:00pm"},
+      {"weekday": "Friday", "start": "4:00pm", "end": "5:00pm"}
+    ]
+  },
+  "Sgarbas Kiriakos": {
+    "display_name": "Sgarbas Kiriakos",
+    "email": "sgarbas@upatras.gr",
+    "phone": "+30 261 099 6470",
+    "hours": []
+  },
+  "Serpanos Dimitrios": {
+    "display_name": "Serpanos Dimitrios",
+    "email": "serpanos@ece.upatras.gr",
+    "phone": "+30 261 099 6437",
+    "hours": [
+      {"weekday": "Tuesday", "start": "12:00pm", "end": "1:00pm"}
+    ]
+  },
+  "Skodras Athanasios": {
+    "display_name": "Skodras Athanasios",
+    "email": "skodras@upatras.gr",
+    "phone": "+30 261 099 6167",
+    "hours": [
+      {"weekday": "Tuesday", "start": "09:00am", "end": "10:00am"},
+      {"weekday": "Thursday", "start": "3:00pm", "end": "4:00pm"}
+    ]
+  },
+  "Skouras Eleftherios": {
+    "display_name": "Skouras Eleftherios",
+    "email": "eskuras@ece.upatras.gr",
+    "phone": "+30 261 099 6425",
+    "hours": [
+      {"weekday": "Wednesday",  "start": "11:00am", "end": "1:00pm"},
+      {"weekday": "Thursday", "start": "1:00pm", "end": "2:00pm"}
+    ]
+  },
+  "Stilianakis Vasilios": {
+    "display_name": "Stilianakis Vasilios",
+    "email": "stylian@upatras.gr",
+    "phone": "+30 261 099 6477",
+    "hours": []
+  },
+  "Tatakis Emanouil": {
+    "display_name": "Tatakis Emanouil",
+    "email": "e.c.tatakis@ece.upatras.gr",
+    "phone": "+30 261 099 6412",
+    "hours": [
+      {"weekday": "Tuesday", "start": "2:00pm", "end": "3:30pm"},
+      {"weekday": "Thursday", "start": "09:00am", "end": "11:00am"},
+      {"weekday": "Friday", "start": "12:00pm", "end": "2:00pm"}
+    ]
+  },
+  "Tomkos Ioannis": {
+    "display_name": "Tomkos Ioannis",
+    "email": "itom@ece.upatras.gr",
+    "phone": "+30 261 096 9869",
+    "hours": [
+      {"weekday": "Tuesday", "start": "1:00pm", "end": "3:00pm"},
+      {"weekday": "Wednesday", "start": "10:00am", "end": "12:00pm"}
+    ]
+  },
+  "Fidas Christos": {
+    "display_name": "Fidas Christos",
+    "email": "fidas@ece.upatras.gr",
+    "phone": "+30 261 099 6491",
+    "hours": []
+  },
+  "Hadjiglyceroudis Konstantinos": {
+    "display_name": "Hadjiglyceroudis Konstantinos",
+    "email": "costashatz@upatras.gr",
+    "phone": "+30 261 099 6457",
+    "hours": [
+      {"weekday": "Tuesday",  "start": "10:00am", "end": "2:00pm"},
+      {"weekday": "Wednesday", "start": "10:00am", "end": "2:00pm"}
+    ]
+  }
+}
